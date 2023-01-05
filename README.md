@@ -1,2 +1,5 @@
 # udtaleordbog.dk-api-plain-txt
-Simple API for udtaleordbog.dk
+
+This is a very simple API for udtaleordbog.dk
+
+https://udtaleordbog.dk/api_txt.php?q=eksempel will return /ɛk.ˈsɛm̰p.l/ in plain text.
